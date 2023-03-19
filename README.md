@@ -22,6 +22,7 @@ Demo of this game.
 <img src="img/win.png">
 
 <img src="img/lose.png">
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
