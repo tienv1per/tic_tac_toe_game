@@ -1,19 +1,27 @@
 # tic_tac_toe_game
-simple game written in JS
+simple tic tac toe game written in JS
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Clone this repo.
 
 ```bash
 git clone https://github.com/tienv1per/tic_tac_toe_game.git
 ```
 
 ## Usage
-Open HTML file with live server mode
-Click button "Replay" to start the game or to the replay the game after finishing
-In this project, bot is created using minimax algorithm so you will find little bit harder to win this :v
+Open HTML file with live server mode.
+Click button "Replay" to start the game or to the replay the game after finishing.
+In this project, bot is created using minimax algorithm so you will find little bit harder to win this :v.
 
+Demo of this game.
+
+<img src="img/img.png">
+
+
+<img src="img/win.png">
+
+<img src="img/lose.png">
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
