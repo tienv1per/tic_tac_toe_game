@@ -96,14 +96,12 @@ function bestSpot(){
 // check xem co hoa khong
 function checktie(){
     if(emptySquares().length === 0){
-        if(!checkWin(origBoard, huPlayer) || !checkWin(origBoard, AIPlayer)){
-            for(var i = 0; i < cells.length; i++){
-                cells[i].style.backgroundColor = 'green';
-                cells[i].removeEventListener('click', turnClick, false);
-            }
-            declareWinner("Tie Game");
-            return true;
+        for(var i = 0; i < cells.length; i++){
+            cells[i].style.backgroundColor = 'green';
+            cells[i].removeEventListener('click', turnClick, false);
         }
+        declareWinner("Tie Game");
+        return true;
     }
     return false;
 }
