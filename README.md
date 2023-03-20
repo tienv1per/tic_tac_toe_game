@@ -11,7 +11,7 @@ git clone https://github.com/tienv1per/tic_tac_toe_game.git
 
 ## Usage
 Open HTML file with live server mode.
-Click button "Replay" to start the game or to the replay the game after finishing.
+Click button "START" to start the game or to the replay the game after finishing.
 In this project, bot is created using minimax algorithm so you will find little bit harder to win this :v.
 
 Demo of this game.
