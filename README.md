@@ -16,6 +16,8 @@ In this project, bot is created using minimax algorithm so you will find little 
 
 Demo of this game.
 
+You can try demo [here](https://gameoccho.w3spaces.com/)
+
 <img src="img/img.png">
 
 
